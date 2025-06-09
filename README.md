@@ -13,7 +13,7 @@
 
 ## 📚 Idiomas:
 - 🇧🇷 Português (nativo)
-- 🇫🇷 Francês (B2 em progresso)
+- 🇫🇷 Francês (C1 em progresso)
 - 🇬🇧 Inglês (B1)
 - 🇪🇸 Espanhol (B2)
 - 🇷🇺 Russo (iniciante)
