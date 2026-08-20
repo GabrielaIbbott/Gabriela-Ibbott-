@@ -1,9 +1,8 @@
 # Olá! 👋 Sou Gabriela Ibbott 
 
 🎓 Estudante de programação focada em JavaScript e Front-end
-🌍 Estudando e aprimorando francês, inglês, espanhol e iniciando italiano  
+🌍 Estudando e aprimorando francês, inglês, espanhol e iniciando russo 
 🎨 Profissional em Marketing Digital e Design Gráfico
-🥋 Apaixonada por lutas
 🧠 Sempre buscando aprender algo novo
 
 ## 🛠️ Tecnologias que estou aprendendo:
@@ -17,8 +16,7 @@
 - 🇧🇷 Português (nativo)
 - 🇫🇷 Francês (C1)
 - 🇬🇧 Inglês (B2)
-- 🇪🇸 Espanhol (B2)
-- 🇮🇹 Italiano (iniciante)
+- 🇪🇸 Espanhol (C1)
 
 ## 📈 Em breve:
 - Interfaces modernas com HTML, CSS e JS
